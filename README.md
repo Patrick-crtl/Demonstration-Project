@@ -1,7 +1,7 @@
 # Demonstration-Project (Autopsy)
 Memebers:
 
-Patrick Morgan Fine,
+Patrick Morgan Fine, Lunduk Sherpa
 
 (Picture)
 
