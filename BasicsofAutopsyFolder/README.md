@@ -1,6 +1,8 @@
 Basic Info about cost:
 
-Cost for Base copy: [Free](https://www.autopsy.com/) 
+Cost for Autopsy: [Free](https://www.autopsy.com/) 
+
+![CostofAutopsy](https://github.com/Patrick-crtl/Demonstration-Project/blob/main/Pictures/CostofAutopsy.PNG)
 
 Cost of Encase: [Website](https://digitalintelligence.com/store/t/brand/opentext) for where the price was found. 
 
