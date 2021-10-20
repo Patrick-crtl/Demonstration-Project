@@ -13,5 +13,9 @@ Subtopic: Unicode string extraction
 
 Group Topic: Autopsy
 
-<img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/124dfdc83640b5574998b773b2eeeda2842e8a63/Pictures/profile.jpg" width= "300">
+<img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/627fc50635991959798e867b7cf69ede847f6cdc/Pictures/Luunduk.jpg" width= "300">
+
+Lunduk Sherpa: https://github.com/LundukS
+
+Subtopic: Timeline Analysis
 
