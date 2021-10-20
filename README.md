@@ -13,5 +13,5 @@ Subtopic: Unicode string extraction
 
 Group Topic: Autopsy
 
-<img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/main/Pictures/profile.JPG" width= "300">
+<img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/124dfdc83640b5574998b773b2eeeda2842e8a63/Pictures/profile.jpg" width= "300">
 
