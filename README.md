@@ -13,7 +13,9 @@ Subtopic: Basics and Data Artifacts
 
 Nicholas Taylor: https://github.com/NTaylor29
 
-Subtopic: Unicode string extraction
+Subtopic: EXIF metadata
+
+Disk image: https://nwmissouri.instructure.com/courses/40506/files/folder/DVD-Student/Ch05
 
 <img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/main/Pictures/NickPicture.JPG" width= "300">
 
