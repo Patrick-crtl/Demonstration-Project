@@ -21,7 +21,7 @@ Disk image: https://nwmissouri.instructure.com/courses/40506/files/folder/DVD-St
 
 
 
-<img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/627fc50635991959798e867b7cf69ede847f6cdc/Pictures/Luunduk.jpg" width= "300" height = "200">
+<img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/627fc50635991959798e867b7cf69ede847f6cdc/Pictures/Luunduk.jpg" width= "300" height = "250">
 
 [Lunduk Sherpa](https://github.com/LundukS)
 
