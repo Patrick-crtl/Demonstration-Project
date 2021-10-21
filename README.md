@@ -24,6 +24,8 @@ Disk image: https://nwmissouri.instructure.com/courses/40506/files/folder/DVD-St
 
 Subtopic: Timeline Analysis
 
+Disk image: https://nwmissouri.instructure.com/courses/40506/files/folder/DVD-Student/Ch05
+
 <img src = "https://github.com/Patrick-crtl/Demonstration-Project/blob/627fc50635991959798e867b7cf69ede847f6cdc/Pictures/Luunduk.jpg" width= "300" height = "270">
 
 
