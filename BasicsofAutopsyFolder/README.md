@@ -1,8 +1,10 @@
 Basic Info about cost:
 
-Cost for Autopsy: [Free](https://www.autopsy.com/) 
+Cost for Autopsy: [Free](https://www.autopsy.com/) Cost of Training: [Website](https://dfir-training.basistech.com/courses/autopsy-basics-8-hours)
 
 ![CostofAutopsy](https://github.com/Patrick-crtl/Demonstration-Project/blob/main/Pictures/CostofAutopsy.PNG)
+
+![CostofTraining](https://github.com/Patrick-crtl/Demonstration-Project/blob/main/Pictures/AutopsyTrain.PNG)
 
 Cost of Encase: [Website](https://digitalintelligence.com/store/t/brand/opentext) for where the price was found. 
 
