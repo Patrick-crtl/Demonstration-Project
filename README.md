@@ -22,7 +22,7 @@ Disk image: https://nwmissouri.instructure.com/courses/40506/files/folder/DVD-St
 
 [Lunduk Sherpa](https://github.com/LundukS)
 
-Subtopic: Timeline Analysis
+Subtopic: [Timeline Analysis](https://github.com/Patrick-crtl/Demonstration-Project/tree/main/Timeline%20Analysis)
 
 [Disk image](https://nwmissouri.instructure.com/courses/40506/files/folder/DVD-Student/Ch05)
 
